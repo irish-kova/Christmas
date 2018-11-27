@@ -60,8 +60,6 @@ function snowflake() {
     }
   };
 
-    
-
      
     // code for roof
     stroke('#000000'); 
@@ -140,7 +138,6 @@ function snowflake() {
 }
 function mousePressed() 
 {
- 
     // Pick new random color values
     r = random(255);
     g = random(255);
@@ -160,8 +157,6 @@ function mousePressed()
     er = random(255);
     eg = random(255);
     eb = random(255);
-      
-  
     
 }
 
